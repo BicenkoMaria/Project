@@ -3,17 +3,17 @@
 
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/resource__"
-        android:title="Список рецептов" />
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Заказы" />
 
     <item
         android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/__"
-        android:title="Выбранный рецепт" />
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Архив заказов" />
 
     <item
         android:id="@+id/navigation_notifications"
-        android:icon="@drawable/resource2__"
-        android:title="Избранные рецепты" />
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Избранное" />
 
 </menu>
