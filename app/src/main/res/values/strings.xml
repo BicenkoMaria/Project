@@ -5,4 +5,21 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_main3">MainActivity3</string>
+
+    <string-array name="emails">
+        <item>nilchenko@sfedu.ru</item>
+        <item>nilchenko@gmail.com</item>
+        <item>user@sfedu.ru</item>
+        <item>user@gmail.com</item>
+        <item>user228@gmail.com</item>
+    </string-array>
+
+    <string-array name="passwords">
+        <item>12345</item>
+        <item>11111</item>
+        <item>22222</item>
+        <item>33333</item>
+        <item>44444</item>
+    </string-array>
+
 </resources>
